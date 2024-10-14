@@ -41,6 +41,7 @@ public static class Program
                             {
                                 Console.WriteLine($"#{i}");
                                 Console.WriteLine(item);
+                                i++;
                             }
                             break;
                         }
